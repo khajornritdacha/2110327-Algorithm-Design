@@ -1,0 +1,10 @@
+# Ignore file without extension
+*
+!/**/
+!*.*
+
+# Ignore file in folder tmp
+tmp/
+
+# Ignore files with .exe extension
+**/*.exe
